@@ -1,4 +1,4 @@
-通过真实 Swift 项目学习去制作桌面 apps**
+通过真实 Swift 项目学习去制作桌面 apps
 
 ***Paul Hudson***
 
