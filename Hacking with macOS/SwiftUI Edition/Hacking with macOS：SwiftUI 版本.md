@@ -42,7 +42,7 @@
 
 [Structs（结构体）](./Introduction/Structs%EF%BC%88%E7%BB%93%E6%9E%84%E4%BD%93%EF%BC%89.md)
 
-类
+[类](./Introduction/%E7%B1%BB.md)
 
 属性
 
