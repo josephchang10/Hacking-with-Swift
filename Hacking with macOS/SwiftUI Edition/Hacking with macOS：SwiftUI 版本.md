@@ -44,7 +44,7 @@
 
 [类](./Introduction/%E7%B1%BB.md)
 
-属性
+[属性](./Introduction/%E5%B1%9E%E6%80%A7.md)
 
 静态属性和方法
 
