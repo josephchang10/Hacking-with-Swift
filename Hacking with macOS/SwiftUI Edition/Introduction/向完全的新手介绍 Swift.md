@@ -28,3 +28,5 @@
 # [枚举](./%E6%9E%9A%E4%B8%BE.md)
 
 # [Structs（结构体）](./Structs%EF%BC%88%E7%BB%93%E6%9E%84%E4%BD%93%EF%BC%89.md)
+
+# [类](./%E7%B1%BB.md)
