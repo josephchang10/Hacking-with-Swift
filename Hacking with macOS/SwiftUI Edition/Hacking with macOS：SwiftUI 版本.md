@@ -56,9 +56,9 @@
 
 [协议](./Introduction/%E5%8D%8F%E8%AE%AE.md)
 
-扩展（Extensions）
+[扩展](./Introduction/%E6%89%A9%E5%B1%95.md)
 
-协议扩展
+[协议扩展](./Introduction/%E5%8D%8F%E8%AE%AE%E6%89%A9%E5%B1%95.md)
 
 总结
 
