@@ -52,7 +52,7 @@
 
 [多态和类型转换](./Introduction/%E5%A4%9A%E6%80%81%E5%92%8C%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
-闭包
+[闭包](./Introduction/%E9%97%AD%E5%8C%85.md)
 
 协议
 
