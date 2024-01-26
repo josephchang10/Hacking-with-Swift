@@ -60,38 +60,61 @@
 
 [协议扩展](./Introduction/%E5%8D%8F%E8%AE%AE%E6%89%A9%E5%B1%95.md)
 
-总结
+[总结](./Introduction/%E6%80%BB%E7%BB%93.md)
 
 ## 项目 1：风暴查看器
 风暴查看器：设置
+
 处理视图
+
 介绍列表
+
 加载我们的图像
+
 响应图像选择
+
 收尾
+
 风暴查看器：总结
 
 ## 项目 2：Cows and Bulls
 Cows and Bulls：设置
+
 设计我们的用户界面
+
 列表中的填充
+
 Marking guesses
+
 额外改进
+
 自定义这个游戏
+
 Now take a bow!
+
 Cows and Bulls：总结
 
 ## 项目 3：Views and Modifiers
 Views and modifiers：介绍
+
 为何 SwiftUI 的视图使用结构体？
+
 为何 modifier 的顺序有影响
+
 为何 SwiftUI 的视图类型使用 ”some View“？
+
 Conditional modifiers
+
 Environment modifiers
+
 Views as properties
+
 视图组合
+
 自定义 modifiers
+
 自定义容器
+
 Views and modifiers：总结
 
 ## 项目 4：文字解释器
