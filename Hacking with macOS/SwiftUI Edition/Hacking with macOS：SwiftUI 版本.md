@@ -54,7 +54,7 @@
 
 [闭包](./Introduction/%E9%97%AD%E5%8C%85.md)
 
-协议
+[协议](./Introduction/%E5%8D%8F%E8%AE%AE.md)
 
 扩展（Extensions）
 
