@@ -48,7 +48,7 @@
 
 [静态属性和方法](./Introduction/%E9%9D%99%E6%80%81%E5%B1%9E%E6%80%A7%E5%92%8C%E6%96%B9%E6%B3%95.md)
 
-权限控制
+[访问控制](./Introduction/%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6.md)
 
 多态和类型转换
 
