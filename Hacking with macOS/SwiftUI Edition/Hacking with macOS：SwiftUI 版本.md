@@ -50,7 +50,7 @@
 
 [访问控制](./Introduction/%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6.md)
 
-多态和类型转换
+[多态和类型转换](./Introduction/%E5%A4%9A%E6%80%81%E5%92%8C%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
 闭包
 
