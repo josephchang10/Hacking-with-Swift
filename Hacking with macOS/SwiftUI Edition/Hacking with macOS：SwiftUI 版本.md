@@ -62,8 +62,8 @@
 
 [总结](./Introduction/%E6%80%BB%E7%BB%93.md)
 
-## 项目 1：风暴查看器
-风暴查看器：设置
+## 项目 1：[Storm Viewer](./Project%201/Storm%20Viewer.md)
+[Storm Viewer：设置](./Project%201/Storm%20Viewer%EF%BC%9A%E8%AE%BE%E7%BD%AE.md)
 
 处理视图
 
