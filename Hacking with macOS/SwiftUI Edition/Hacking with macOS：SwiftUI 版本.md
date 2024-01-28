@@ -65,9 +65,9 @@
 ## 项目 1：[Storm Viewer](./Project%201/Storm%20Viewer.md)
 [Storm Viewer：设置](./Project%201/Storm%20Viewer%EF%BC%9A%E8%AE%BE%E7%BD%AE.md)
 
-处理视图
+[使用视图](./Project%201/%E4%BD%BF%E7%94%A8%E8%A7%86%E5%9B%BE.md)
 
-介绍列表
+[介绍列表](./Project%201/%E4%BB%8B%E7%BB%8D%E5%88%97%E8%A1%A8.md)
 
 加载我们的图像
 
