@@ -75,7 +75,7 @@
 
 [最终润色](./Project%201/%E6%9C%80%E7%BB%88%E6%B6%A6%E8%89%B2.md)
 
-风暴查看器：总结
+[风暴查看器：总结](./Project%201/%E9%A3%8E%E6%9A%B4%E6%9F%A5%E7%9C%8B%E5%99%A8%EF%BC%9A%E6%80%BB%E7%BB%93.md)
 
 ## 项目 2：Cows and Bulls
 Cows and Bulls：设置
