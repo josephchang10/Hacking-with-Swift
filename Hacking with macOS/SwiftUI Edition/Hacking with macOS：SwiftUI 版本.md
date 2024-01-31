@@ -80,11 +80,11 @@
 ## 项目 2：[猜数字](./Project%202/%E7%8C%9C%E6%95%B0%E5%AD%97.md)
 [猜数字：设置](./Project%202/%E7%8C%9C%E6%95%B0%E5%AD%97%EF%BC%9A%E8%AE%BE%E7%BD%AE.md)
 
-设计我们的用户界面
+[设计我们的用户界面](./Project%202/%E8%AE%BE%E8%AE%A1%E6%88%91%E4%BB%AC%E7%9A%84%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2.md)
 
-列表中的填充
+[填充列表](./Project%202/%E5%A1%AB%E5%85%85%E5%88%97%E8%A1%A8.md)
 
-Marking guesses
+给猜测打分
 
 额外改进
 
