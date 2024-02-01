@@ -84,7 +84,7 @@
 
 [填充列表](./Project%202/%E5%A1%AB%E5%85%85%E5%88%97%E8%A1%A8.md)
 
-给猜测打分
+[给猜测打分](./Project%202/%E7%BB%99%E7%8C%9C%E6%B5%8B%E6%89%93%E5%88%86.md)
 
 额外改进
 
@@ -92,7 +92,7 @@
 
 Now take a bow!
 
-Cows and Bulls：总结
+猜数字：总结
 
 ## 项目 3：Views and Modifiers
 Views and modifiers：介绍
