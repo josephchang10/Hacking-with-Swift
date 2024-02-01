@@ -88,7 +88,7 @@
 
 [额外改进](./Project%202/%E9%A2%9D%E5%A4%96%E6%94%B9%E8%BF%9B.md)
 
-自定义这个游戏
+[自定义游戏](./Project%202/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B8%B8%E6%88%8F.md)
 
 Now take a bow!
 
