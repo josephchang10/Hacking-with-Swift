@@ -90,7 +90,7 @@
 
 [自定义游戏](./Project%202/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B8%B8%E6%88%8F.md)
 
-Now take a bow!
+[现在谢幕！](./Project%202/%E7%8E%B0%E5%9C%A8%E8%B0%A2%E5%B9%95%EF%BC%81.md)
 
 猜数字：总结
 
@@ -119,12 +119,19 @@ Views and modifiers：总结
 
 ## 项目 4：文字解释器
 文字解释器：介绍
+
 Bootstrapping an app
+
 执行语义分析
+
 查找替代单词
+
 检测名字和语言
+
 引入一个外部包
+
 Flags and options
+
 文字解释器：总结
 
 ## 项目 5：MultiMap
