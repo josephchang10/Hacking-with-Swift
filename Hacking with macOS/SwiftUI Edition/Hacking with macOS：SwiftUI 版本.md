@@ -92,7 +92,7 @@
 
 [现在谢幕！](./Project%202/%E7%8E%B0%E5%9C%A8%E8%B0%A2%E5%B9%95%EF%BC%81.md)
 
-猜数字：总结
+[猜数字：总结](./Project%202/%E7%8C%9C%E6%95%B0%E5%AD%97%EF%BC%9A%E6%80%BB%E7%BB%93.md)
 
 ## 项目 3：Views and Modifiers
 Views and modifiers：介绍
