@@ -94,12 +94,12 @@
 
 [猜数字：总结](./Project%202/%E7%8C%9C%E6%95%B0%E5%AD%97%EF%BC%9A%E6%80%BB%E7%BB%93.md)
 
-## 项目 3：Views and Modifiers
-Views and modifiers：介绍
+## 项目 3：[视图和修饰符](./Project%203/%E8%A7%86%E5%9B%BE%E5%92%8C%E4%BF%AE%E9%A5%B0%E7%AC%A6.md)
+视图和修饰符：介绍
 
-为何 SwiftUI 的视图使用结构体？
+为何 SwiftUI 的视图使用 structs？
 
-为何 modifier 的顺序有影响
+为何修饰符的顺序有影响
 
 为何 SwiftUI 的视图类型使用 ”some View“？
 
@@ -111,11 +111,11 @@ Views as properties
 
 视图组合
 
-自定义 modifiers
+自定义修饰符
 
 自定义容器
 
-Views and modifiers：总结
+视图和修饰符：总结
 
 ## 项目 4：文字解释器
 文字解释器：介绍
@@ -136,129 +136,216 @@ Flags and options
 
 ## 项目 5：MultiMap
 MultiMap：介绍
+
 创建一张交互式地图
+
 搜索位置
+
 处理列表多选
+
 切换至 searchable()
+
+
 最终改进
 MultiMap：总结
 
 ## 项目 6：动画
 动画：介绍
+
 创建隐式动画
+
 自定义 SwiftUI 中的动画
+
 动画绑定
+
 创建显示动画
+
 控制动画栈
+
 手势动画
+
 用过度显示和隐藏视图
+
 使用 ViewModifier 构建自定义过度
+
 动画：总结
 
 ## 项目 7：Fast Track
 Fast Track：设置
+
 从列表到网格
+
 从一台服务器下载数据
+
 远程图像和自定义子视图
+
 播放音频
+
 添加一些额外改进
+
 Fast Track：总结
 
 ## 项目 8：Odd One Out
 Odd One Out：设置
+
 创建一网格的按钮
+
 生成布局
+
 点击去赢
+
 游戏结束
+
 Odd One Out：总结
 
 ## 项目 9：绘图
 绘图：介绍
+
 通过 SwiftUI 创建自定义路径
+
 SwiftUI 中的路径 vs 形状
+
 通过 InsettableShape 添加 strokeBorder() 支持
+
 使用 CGAffineTransform 和甚至更古怪的填充转变形状
+
 使用 ImagePaint 的创意边框和填充
+
 通过 drawingGroup() 启用高性能 Metal 渲染
+
 SwiftUI 中的特殊效果：模糊、blending 等等
+
 通过 animatableData 动画简单的形状
+
 通过 AnimatablePair 动画复杂的形状
+
 通过 SwiftUI 创建一个呼吸描记器
+
 绘图：总结
 
 ## 项目 10：Time Buddy
 Time Buddy：设置
+
 空的艺术
+
 你好，菜单栏
+
 到 SwiftUI
+
 动态菜单项目
+
 Time Buddy：总结
 
 ## 项目 11：Bubble Trouble
 Bubble Trouble：设置
+
 清理 Xcode 模板
+
 气泡……到处都是气泡！
+
 Setting the universe in motion
+
 添加一些难度
+
 Gotta pop ‘em all
+
 Bubble Trouble: 总结
 
 ## 项目 12：布局和 Geometry
 布局和 geometry：介绍
+
 SwiftUI 中的布局是如何工作的
+
 对齐和 alignment guide
+
 如何创建一个自定义的 alignment guide
+
 SwiftUI 视图的绝对位置
+
 理解 GeometryReader 中的 frames 和 coordinates
+
 使用 GeometryReader 的 ScrollView 效果
+
 布局和 geometry：总结
 
 ## 项目 13：Screenable
 Screenable：设置
+
 介绍 FileDocument
+
 通过 Canvas 自定义渲染
+
 从你的 app bundle 加载文件
+
 通过拖放添加图像
+
 颜色和渐变
+
 添加阴影
+
 导出完成的产品
+
 Screenable：总结
 
 ## 项目 14：Shooting Gallery
 Shooting Gallery：设置
+
 创建游戏世界
+
 创建一个自定义 node
+
 Click, click, bang!
+
 添加一些改进
+
 Shooting Gallery：总结
 
 ## 项目 15：可访问性
 可访问性：介绍
+
 通过实用的标签识别视图
+
 隐藏和分组可访问性数据
+
 读取控件的值
+
 可访问性：总结
 
 ## 项目 16：书虫
 书虫：设置
+
 实体和属性
+
 获取和创建数据
+
 观察外部对象
+
 添加一些最终改进
+
 书虫：总结
 
 ## 项目 17：Match Tree
 Match Tree：设置
+
 一网格的球
+
 匹配颜色
+
 腾出更多空间
+
 一缕烟
+
 Match Tree：总结
 
 ## 项目 18：Core Data
 Core Data：介绍
+
 创建 NSManagedObject 子类
+
 使用约束确保 Core Data 对象是唯一的
+
 使用 NSPredicate 过滤 @FetchRequest
+
 Core Data、SwiftUI 和 @FetchRequest 的一对多关系
+
 Core Data：总结
